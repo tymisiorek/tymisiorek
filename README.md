@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm currently a third-year at the University of Virginia and am doing research in the School of Data Science with the Connected Data Hub.
 
-Feel free to email me at tymisiorek@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tymisiorek)!
+Feel free to email me at tymisiorek@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tymisiorek) if you'd like to reach out!
