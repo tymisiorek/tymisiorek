@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ty Misiorek
+Ty Misiorek <br>
 CS @ UVA
