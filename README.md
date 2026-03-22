@@ -1,5 +1,3 @@
-## 👋 Hi! I'm Ty.
-
 <!--
 **tymisiorek/tymisiorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm currently a fourth-year at the University of Virginia and am doing research in the School of Data Science at the Connected Data Hub.
-
-Feel free to email me at tymisiorek@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tymisiorek) if you'd like to reach out!
+CS @ UVA
